@@ -10,6 +10,7 @@ dependencies = [
     "langchain>=1.4.7",
     "langchain-anthropic>=1.7.7",
     "langchain-tavily>=0.2.18",
+    "pydantic>=2.14.1",
     "python-dotenv>=1.2.4",
     "tavily-python>=0.8.5",
 ]
